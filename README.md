@@ -1,0 +1,1 @@
+This is the readme for the HTML Odin Project belonging to Alex Bernier.
